@@ -2,8 +2,8 @@
 ## Akira Dazai 🎏
 
 - 🔭 Study and learning about Front-end
-- 🌱 Study Javascript and a little bit Back-end 
-- 😄 Pronouns: He/They
+- 🌱 Study HTML, Javascript and a little bit Python
+- 😄 Pronouns: He/She/They
 
 <div>
   <a href="https://github.com/yamafeels">
