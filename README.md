@@ -1,7 +1,7 @@
 ## Akira Dazai 🎏
 
 - 🔭 Study and learning about Front-end
-- 🌱 Study HTML, Javascript and a little bit Python
+- 🌱 Study HTML, Javascript, css
 - 😄 Pronouns: He/She/They
 
 <div>
