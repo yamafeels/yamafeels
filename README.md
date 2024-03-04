@@ -1,4 +1,3 @@
-### Akira not Toriyama haha Dazai? Ah... (LOL)
 ## Akira Dazai 🎏
 
 - 🔭 Study and learning about Front-end
