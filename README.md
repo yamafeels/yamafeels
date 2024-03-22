@@ -1,5 +1,7 @@
 ## Akira Dazai 🎏
 
+![dr-stone-senku](https://github.com/yamafeels/yamafeels/assets/130323616/27fa6740-cb77-4c8c-9e8f-e8a0a7c3484b)
+
 - 🔭 Study and learning about Front-end
 - 🌱 Study HTML, Javascript, css
 - 😄 Pronouns: He/She/They
@@ -13,11 +15,12 @@
 ## Programming languages 🖥️:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="yama-pic" height="150" style="border-radius:50px;" 
-       src="https://cdn.discordapp.com/attachments/946281246424711208/1104848656466714754/picasion.com_23b2339e3b99202a8484f0b6d9426606.gif">
+  <img align="center" alt="Akira-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Akira-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Akira-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="center" alt="Akira-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+          
+  <img align="right" alt="yama-pic" height="110" width="110" src="https://i.pinimg.com/564x/59/56/ea/5956ead338936527625276db72c3b222.jpg">
 </div>
   
 ## Conections 🕹️: 
