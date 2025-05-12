@@ -3,7 +3,7 @@
 ![dr-stone-senku](https://github.com/yamafeels/yamafeels/assets/130323616/27fa6740-cb77-4c8c-9e8f-e8a0a7c3484b)
 
 - 🔭 Study and learning about Front-end
-- 🌱 Study HTML and css
+- 🌱 Study HTML, CSS and Javascript
 - 😄 Pronouns: He/She/They
 
 <div>
